@@ -1,5 +1,5 @@
 # Create fruits, vegetables, and animal products tuples join the three tuples and assign it to a variable called food_stuff_tp
-fruits = ('Strawberry', 'Banana', 'Apple')
+fruits = ('orange ', 'Banana', 'Apple')
 vegetables = ('Pumpkin', 'Cabbage', 'Potatoes')
 animal_products = ('Meat', 'Chicken', 'Eggs')
 food_stuff_tp = fruits + vegetables + animal_products
