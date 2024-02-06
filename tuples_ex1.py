@@ -2,8 +2,8 @@
 empty_tuple = ()
 
 # Create a tuple containing names of sisters and brothers
-sisters = ('priya', 'diya')
-brothers = ('pratik', 'kalp')
+sisters = ('pragti', 'diya')
+brothers = ('dhruv', 'om')
 
 # Join brothers and sisters tuples and assign it to siblings
 siblings = brothers + sisters
@@ -12,8 +12,8 @@ siblings = brothers + sisters
 total_siblings = len(siblings)
 
 # Modify the siblings tuple and add the name of your father and mother and assign it to family_members
-father_name = 'vijay'
-mother_name = 'pragna'
+father_name = 'kalpesh'
+mother_name = 'jagruti'
 family_members = (father_name, mother_name) + siblings
 
 # Display results after such operations
